@@ -1,0 +1,150 @@
+body {
+    background-color: rgb(3, 27, 255);
+}
+
+main {
+    margin-left: 50px;
+}
+
+.logo1 {
+    position: absolute;
+    margin-top: -50px;
+    margin-left: -100px;
+}
+
+.unkok_nav {
+    margin-top: 30px;
+    margin-left: 600px;
+}
+
+.unkok_main {
+    position: absolute;
+    margin-top: 200px;
+    margin-left: -599px;
+}
+
+p {
+    position: absolute;
+    font-family: "Tiny5", sans-serif;
+    /* border: 2px solid green; */
+    font-size: 18px;
+    }
+
+    .quotes {
+        font-size: 40px;
+        margin-left: 670px;
+        margin-top: 60px;
+    }
+
+    .dima_photo {
+        position: absolute;
+        margin-top: 380px;
+        margin-left: -230px;
+    }
+
+    .dima_text {
+        margin-left: 630px;
+        margin-top: 200px;
+        width: 350px;
+        font-size: 40px;
+    }
+
+    .kokojambo_photo {
+        position: absolute;
+        margin-left: -570px;
+        margin-top: 620px;
+    }
+
+    .kokojambo_text {
+        margin-left: 850px;
+        margin-top: 450px;
+        font-size: 40px;
+    }
+
+    .maxibom_photo {
+        position: absolute;
+        margin-top: 870px;
+        margin-left: -230px;
+    }
+
+    .maxibom_text {
+        margin-top: 700px;
+        margin-left: 630px;
+        font-size: 40px;
+    }
+
+    .btn2 {
+        position: absolute;
+        width: 35px;
+        height: 105px;
+        background-color: rgb(59, 59, 58, 0);
+        border: 2px solid rgb(59, 59, 58, 0);
+        border-radius: 4px;
+        margin-top: 220px;
+        margin-left: -40px;
+    }
+
+    .a2 {
+        font-size: 80px;
+        text-decoration: none;
+        margin-left: -17px;
+        color: rgb(59, 59, 58, 0);
+    }
+
+    .anok_photo {
+        position: absolute;
+        margin-top: 1110px;
+        margin-left: -570px;
+    }   
+
+    .anok_text {
+        margin-top: 950px;
+        margin-left: 840px;
+        font-size: 23px;
+        width: 360px;
+        height: 500px;
+    }
+
+    .uttix_photo {
+        position: absolute;
+        margin-top: 1350px;
+        margin-left: -235px;
+    }
+
+    .uttix_text {
+        margin-top: 1180px;
+        margin-left: 630px;
+        font-size: 40px;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    .footer {
+        position: absolute;
+        background-color: rgb(236, 233, 216);
+        width: 1900px;
+        height: 200px;
+        margin-top: 1650px;
+        margin-left: -5px;
+    }
+    
+    .text_footer {
+        position: absolute;
+        margin-top: 1700px;
+        font-size: 100px;
+        margin-left: 100p;
+    }
+

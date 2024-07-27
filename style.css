@@ -1,0 +1,153 @@
+body {
+    background-color: rgb(3, 27, 255);
+}
+
+.unkok_nav {
+    margin-top: 30px;
+    margin-left: 600px;
+}
+
+.unkok_main {
+    position: absolute;
+    margin-top: 200px;
+    margin-left: -599px;
+}
+
+main {
+    margin-left: 50px;
+}
+
+.photo2 {
+    position: absolute;
+    margin-top: 380px;
+    margin-left: -230px;
+}
+
+p {
+position: absolute;
+font-family: "Tiny5", sans-serif;
+/* border: 2px solid green; */
+font-size: 18px;
+}
+
+.text_dima {
+    color: rgb(236, 233, 216);
+    margin-left: 635px;
+    margin-top: 210px;
+    width: 335px;
+    height: 150px;
+}
+
+.text_dima:hover {
+    color: black;
+}
+
+.kokojambo {
+    position: absolute;
+    margin-top: 650px;
+    margin-left: -570px;
+}
+
+.text_kokojambo {
+    position: absolute;
+    /* border: 2px solid green; */
+    width: 200px;
+    height: 300px;
+    margin-left: 850px;
+    margin-top: 470px;
+}
+
+.photo3 {
+    position: absolute;
+    margin-top: 900px;
+    margin-left: -230px;
+}
+
+
+.text_maxiboomj {
+    position: absolute;
+    width: 300px;
+    height: 300px;
+    margin-top: 725px;
+    margin-left: 632px;
+}
+
+.anok {
+    position: absolute;
+    margin-top: 1140px;
+    margin-left: -570px;
+}
+
+.text_anok {
+    position: absolute;
+    width: 300px;
+    height: 500px;
+    margin-top: 965px;
+    margin-left: 850px;
+}
+
+.btn1 {
+    position: absolute;
+    margin-top: 250px;
+    margin-left: -570px;
+    width: 100px;
+    height: 50px;
+     background-color: rgb(236, 233, 216);
+    /* border: rgb(3, 27, 255);  */
+    border-radius: 6px;
+}
+
+.btn2 {
+    position: absolute;
+    margin-top: 250px;
+    margin-left: -430px;
+    width: 100px;
+    height: 50px;
+     background-color: rgb(236, 233, 216);
+    /* border: rgb(3, 27, 255);  */
+    border-radius: 6px;
+
+}
+
+a {
+    color: black;
+    font-family: "Tiny5", sans-serif;
+    font-size: 18px;
+    text-decoration: none;
+}
+
+.uttix {
+    position: absolute;
+    margin-top: 1380px;
+    margin-left: -240px;
+}
+
+.text_uttix {
+    position: absolute;
+    width: 300px;
+    height: 400px;
+    margin-top: 1210px;
+    margin-left: 630px;
+}
+
+.footer {
+    position: absolute;
+    background-color: rgb(236, 233, 216);
+    width: 1900px;
+    height: 200px;
+    margin-top: 1650px;
+    margin-left: -5px;
+}
+
+.text_footer {
+    position: absolute;
+    margin-top: 1700px;
+    font-size: 100px;
+    margin-left: 100p;
+}
+
+.logo1 {
+    position: absolute;
+    margin-top: -50px;
+    margin-left: -100px;
+}
